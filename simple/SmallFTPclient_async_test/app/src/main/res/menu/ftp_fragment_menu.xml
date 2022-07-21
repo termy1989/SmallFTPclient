@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_ftp_search"
+        android:icon="@drawable/ic_menu_search"
+        android:orderInCategory="107"
+        app:showAsAction="ifRoom"
+        android:title="@string/search"
+        app:actionViewClass="android.widget.SearchView" />
+
+    <item
+        android:id="@+id/action_ftp_select_all"
+        android:orderInCategory="100"
+        android:title="@string/select_all"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_ftp_clear_all"
+        android:orderInCategory="101"
+        android:title="@string/clear_all"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_ftp_new_folder"
+        android:orderInCategory="102"
+        android:title="@string/new_folder"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_ftp_rename"
+        android:orderInCategory="103"
+        android:title="@string/rename"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_ftp_delete"
+        android:orderInCategory="104"
+        android:title="@string/delete"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_ftp_copy"
+        android:orderInCategory="106"
+        android:title="@string/copy_rewrite"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_ftp_move"
+        android:orderInCategory="105"
+        android:title="@string/move_rewrite"
+        app:showAsAction="never" />
+</menu>

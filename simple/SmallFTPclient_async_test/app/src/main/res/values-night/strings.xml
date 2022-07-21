@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Small FTP Client</string>
+
+    <string name="add_server">Add server</string>
+    <string name="edit_server">Edit server</string>
+    <string name="local_storage">Local Storage</string>
+
+    <string name="add">Add…</string>
+    <string name="set">Set SD-card root path…</string>
+
+    <string name="no_files_found">NO FILES FOUND</string>
+    <string name="no_servers_found">NO SERVERS FOUND</string>
+    <string name="loading">Please, wait…</string>
+
+    <string name="file_name">File Name</string>
+    <string name="folder_name">Folder Name</string>
+    <string name="server_name">Server Name</string>
+    <string name="server_port">Port (21)</string>
+    <string name="server_address">Server Address</string>
+    <string name="server_path">Server Path (/)</string>
+    <string name="anonymous">Anonymous</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="nav_header_title">Small FTP client</string>
+    <string name="nav_header_subtitle">version 1.0</string>
+
+    <string name="message_rename_file">Rename file</string>
+    <string name="message_rename_folder">Rename folder</string>
+    <string name="message_new_folder">New folder</string>
+    <string name="message_warning">Warning</string>
+    <string name="message_error">Error</string>
+    <string name="message_ok">OK</string>
+    <string name="message_cancel">Cancel</string>
+    <string name="message_abort">Abort</string>
+    <string name="message_delete">Delete</string>
+    <string name="message_quit">Quit</string>
+
+    <string name="message_select_delete">Please, select at least one item for deleting</string>
+    <string name="message_sure_delete">Are you sure you want to delete selected items?</string>
+    <string name="message_sure_exit">Are you sure you want to exit?</string>
+
+    <string name="message_edit">Please, fill in all required fields</string>
+
+    <string name="message_folder">Choose folder</string>
+    <string name="message_download_select">Please, select at least one item for downloading</string>
+    <string name="message_upload_select">Please, select at least one item for uploading</string>
+    <string name="message_download_path">Choose path</string>
+    <string name="message_upload_path">Choose server</string>
+    <string name="message_download_cancel">There is a download transfer in a progress. Do you want to abort it?</string>
+    <string name="message_upload_cancel">There is an upload transfer in a progress. Do you want to abort it?</string>
+    <string name="message_other_cancel">There is an copy, move or delete task in a progress. Do you want to abort it?</string>
+
+    <string name="toast_sd_error">Could not open SD card!</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <string name="search">Search</string>
+    <string name="select_all">Select all</string>
+    <string name="clear_all">Clear all</string>
+    <string name="new_folder">New folder</string>
+    <string name="rename">Rename</string>
+    <string name="delete">Delete</string>
+    <string name="move">Move</string>
+    <string name="move_rewrite">Move (rewrite)</string>
+    <string name="copy">Copy</string>
+    <string name="copy_rewrite">Copy (rewrite)</string>
+    <string name="servers">Servers</string>
+    <string name="settings">Settings</string>
+</resources>
