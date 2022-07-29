@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ProjectsAS/Project/SmallFTPclient/app/src/main/res/drawable-v24/ic_baseline_file_24.xml" value="0.148" />
+        <entry key="..\:/ProjectsAS/Project/SmallFTPclient/app/src/main/res/drawable-v24/ic_baseline_folder_24.xml" value="0.1355" />
+        <entry key="..\:/ProjectsAS/Project/SmallFTPclient/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.245" />
+        <entry key="..\:/ProjectsAS/Project/SmallFTPclient/app/src/main/res/drawable/ic_baseline_dns_24.xml" value="0.117" />
+        <entry key="..\:/ProjectsAS/Project/SmallFTPclient/app/src/main/res/drawable/ic_baseline_domain_24.xml" value="0.117" />
+        <entry key="..\:/ProjectsAS/Project/SmallFTPclient/app/src/main/res/drawable/ic_baseline_done_outline_24.xml" value="0.148" />
+        <entry key="..\:/ProjectsAS/Project/SmallFTPclient/app/src/main/res/drawable/ic_baseline_key_24.xml" value="0.245" />
+        <entry key="..\:/ProjectsAS/Project/SmallFTPclient/app/src/main/res/drawable/ic_baseline_parent.xml" value="0.117" />
+        <entry key="..\:/ProjectsAS/Project/SmallFTPclient/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.245" />
+        <entry key="..\:/ProjectsAS/Project/SmallFTPclient/app/src/main/res/drawable/ic_baseline_server_24.xml" value="0.1185" />
+        <entry key="..\:/ProjectsAS/Project/SmallFTPclient/app/src/main/res/drawable/ic_baseline_source_24.xml" value="0.245" />
+        <entry key="..\:/ProjectsAS/Project/SmallFTPclient/app/src/main/res/drawable/ic_baseline_storage_24.xml" value="0.117" />
+        <entry key="..\:/ProjectsAS/Project/SmallFTPclient/app/src/main/res/drawable/ic_menu_camera.xml" value="0.245" />
+        <entry key="..\:/ProjectsAS/Project/SmallFTPclient/app/src/main/res/drawable/ic_menu_download.xml" value="0.2375" />
+        <entry key="..\:/ProjectsAS/Project/SmallFTPclient/app/src/main/res/drawable/ic_menu_pictures.xml" value="0.2375" />
+        <entry key="..\:/ProjectsAS/Project/SmallFTPclient/app/src/main/res/drawable/ic_menu_refresh.xml" value="0.2375" />
+        <entry key="..\:/ProjectsAS/Project/SmallFTPclient/app/src/main/res/drawable/ic_menu_server.xml" value="0.146" />
+        <entry key="..\:/ProjectsAS/Project/SmallFTPclient/app/src/main/res/drawable/ic_menu_server_2.xml" value="0.1185" />
+        <entry key="..\:/ProjectsAS/Project/SmallFTPclient/app/src/main/res/drawable/ic_textview_path.xml" value="0.146" />
+        <entry key="..\:/ProjectsAS/Project/SmallFTPclient/app/src/main/res/drawable/ic_textview_server.xml" value="0.117" />
+        <entry key="..\:/ProjectsAS/Project/SmallFTPclient/app/src/main/res/drawable/side_nav_bar.xml" value="0.245" />
+        <entry key="..\:/ProjectsAS/Project/SmallFTPclient/app/src/main/res/layout/activity_add_server.xml" value="0.255050505050505" />
+        <entry key="..\:/ProjectsAS/Project/SmallFTPclient/app/src/main/res/layout/activity_edit_server.xml" value="0.36666666666666664" />
+        <entry key="..\:/ProjectsAS/Project/SmallFTPclient/app/src/main/res/layout/activity_main.xml" value="0.23822463768115942" />
+        <entry key="..\:/ProjectsAS/Project/SmallFTPclient/app/src/main/res/layout/activity_servers.xml" value="0.22" />
+        <entry key="..\:/ProjectsAS/Project/SmallFTPclient/app/src/main/res/layout/app_bar_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/ProjectsAS/Project/SmallFTPclient/app/src/main/res/layout/asd.xml" value="0.2033514492753623" />
+        <entry key="..\:/ProjectsAS/Project/SmallFTPclient/app/src/main/res/layout/content_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/ProjectsAS/Project/SmallFTPclient/app/src/main/res/layout/dialog_loading.xml" value="0.5" />
+        <entry key="..\:/ProjectsAS/Project/SmallFTPclient/app/src/main/res/layout/dialog_local_storage.xml" value="0.2033514492753623" />
+        <entry key="..\:/ProjectsAS/Project/SmallFTPclient/app/src/main/res/layout/dialog_local_storage_2.xml" value="0.17708333333333334" />
+        <entry key="..\:/ProjectsAS/Project/SmallFTPclient/app/src/main/res/layout/fragment_ftp_storage.xml" value="0.36666666666666664" />
+        <entry key="..\:/ProjectsAS/Project/SmallFTPclient/app/src/main/res/layout/fragment_local_storage.xml" value="0.25" />
+        <entry key="..\:/ProjectsAS/Project/SmallFTPclient/app/src/main/res/layout/main_activity.xml" value="0.36666666666666664" />
+        <entry key="..\:/ProjectsAS/Project/SmallFTPclient/app/src/main/res/layout/nav_header_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/ProjectsAS/Project/SmallFTPclient/app/src/main/res/layout/recycler_file_item.xml" value="0.33" />
+        <entry key="..\:/ProjectsAS/Project/SmallFTPclient/app/src/main/res/layout/recycler_server_item.xml" value="0.33" />
+        <entry key="..\:/ProjectsAS/Project/SmallFTPclient/app/src/main/res/menu/activity_main_drawer.xml" value="0.36666666666666664" />
+        <entry key="..\:/ProjectsAS/Project/SmallFTPclient/app/src/main/res/menu/drawer_menu.xml" value="0.15833333333333333" />
+        <entry key="..\:/ProjectsAS/Project/SmallFTPclient/app/src/main/res/menu/main.xml" value="0.36666666666666664" />
+        <entry key="..\:/ProjectsAS/Project/SmallFTPclient/app/src/main/res/menu/main_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/ProjectsAS/Project/SmallFTPclient/app/src/main/res/menu/main_menu_extended.xml" value="0.36666666666666664" />
+        <entry key="..\:/ProjectsAS/Project/SmallFTPclient/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.16" />
+        <entry key="..\:/ProjectsAS/Project/SmallFTPclient/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.16" />
+        <entry key="..\:/ProjectsAS/Project/SmallFTPclient_async/app/src/main/res/drawable/ic_menu_settings.xml" value="0.1195" />
+        <entry key="..\:/ProjectsAS/Project/SmallFTPclient_async/app/src/main/res/drawable/ic_textview_path.xml" value="0.144" />
+        <entry key="..\:/ProjectsAS/Project/SmallFTPclient_async/app/src/main/res/drawable/side_nav_bar.xml" value="0.1195" />
+        <entry key="..\:/ProjectsAS/Project/SmallFTPclient_async/app/src/main/res/layout/activity_edit_server.xml" value="0.36666666666666664" />
+        <entry key="..\:/ProjectsAS/Project/SmallFTPclient_async/app/src/main/res/layout/activity_servers.xml" value="0.36666666666666664" />
+        <entry key="..\:/ProjectsAS/Project/SmallFTPclient_async/app/src/main/res/layout/content_servers.xml" value="0.36666666666666664" />
+        <entry key="..\:/ProjectsAS/Project/SmallFTPclient_async/app/src/main/res/layout/fragment_ftp_storage.xml" value="0.17831813576494426" />
+        <entry key="..\:/ProjectsAS/Project/SmallFTPclient_async/app/src/main/res/layout/nav_header_main.xml" value="0.33" />
+        <entry key="..\:/ProjectsAS/Project/SmallFTPclient_async/app/src/main/res/menu/ftp_fragment_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/ProjectsAS/Project/SmallFTPclient_async/app/src/main/res/menu/local_fragment_menu.xml" value="0.36102564102564105" />
+        <entry key="..\:/ProjectsAS/Project/SmallFTPclient_async/app/src/main/res/menu/main_menu.xml" value="0.29814814814814816" />
+        <entry key="..\:/ProjectsAS/Project/SmallFTPclient_async/app/src/main/res/menu/main_menu_extended.xml" value="0.29814814814814816" />
+        <entry key="..\:/ProjectsAS/SmallFTPclient/app/src/main/res/drawable-v24/ic_baseline_folder_24.xml" value="0.2095" />
+        <entry key="..\:/ProjectsAS/SmallFTPclient/app/src/main/res/layout/activity_add_server.xml" value="0.2164855072463768" />
+        <entry key="..\:/ProjectsAS/SmallFTPclient/app/src/main/res/layout/fragment1.xml" value="0.33016304347826086" />
+        <entry key="..\:/ProjectsAS/SmallFTPclient/app/src/main/res/layout/fragment2.xml" value="0.33016304347826086" />
+        <entry key="..\:/ProjectsAS/SmallFTPclient/app/src/main/res/layout/fragment_local_storage.xml" value="0.33016304347826086" />
+        <entry key="..\:/ProjectsAS/SmallFTPclient/app/src/main/res/layout/main_activity.xml" value="0.25" />
+        <entry key="..\:/ProjectsAS/SmallFTPclient/app/src/main/res/layout/main_fragment.xml" value="0.33016304347826086" />
+        <entry key="..\:/ProjectsAS/SmallFTPclient/app/src/main/res/layout/recycler_file_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/ProjectsAS/SmallFTPclient/app/src/main/res/layout/recycler_item.xml" value="1.199013157894737" />
+        <entry key="..\:/Users/mnp/Desktop/SmallFTPclient/app/src/main/res/drawable/ic_baseline_check_24.xml" value="0.142" />
+        <entry key="..\:/Users/mnp/Desktop/SmallFTPclient/app/src/main/res/drawable/ic_baseline_computer_24.xml" value="0.2345" />
+        <entry key="..\:/Users/mnp/Desktop/SmallFTPclient/app/src/main/res/drawable/ic_baseline_key_24.xml" value="0.2345" />
+        <entry key="..\:/Users/mnp/Desktop/SmallFTPclient/app/src/main/res/drawable/ic_baseline_parent_24.xml" value="0.2345" />
+        <entry key="..\:/Users/mnp/Desktop/SmallFTPclient/app/src/main/res/drawable/ic_baseline_server_24.xml" value="0.148" />
+        <entry key="..\:/Users/mnp/Desktop/SmallFTPclient/app/src/main/res/drawable/ic_button_download.xml" value="0.2345" />
+        <entry key="..\:/Users/mnp/Desktop/SmallFTPclient/app/src/main/res/drawable/ic_button_upload.xml" value="0.2345" />
+        <entry key="..\:/Users/mnp/Desktop/SmallFTPclient/app/src/main/res/drawable/ic_menu_refresh.xml" value="0.148" />
+        <entry key="..\:/Users/mnp/Desktop/SmallFTPclient/app/src/main/res/drawable/ic_menu_server.xml" value="0.148" />
+        <entry key="..\:/Users/mnp/Desktop/SmallFTPclient/app/src/main/res/drawable/ic_menu_settings.xml" value="0.148" />
+        <entry key="..\:/Users/mnp/Desktop/SmallFTPclient/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.148" />
+        <entry key="..\:/Users/mnp/Desktop/SmallFTPclient/app/src/main/res/drawable/ic_message_error_24.xml" value="0.142" />
+        <entry key="..\:/Users/mnp/Desktop/SmallFTPclient/app/src/main/res/drawable/ic_textview_server.xml" value="0.148" />
+        <entry key="..\:/Users/mnp/Desktop/SmallFTPclient/app/src/main/res/drawable/ic_textview_title.xml" value="0.2345" />
+        <entry key="..\:/Users/mnp/Desktop/SmallFTPclient/app/src/main/res/layout/activity_edit_server.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/mnp/Desktop/SmallFTPclient/app/src/main/res/layout/activity_ftp_connect.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/mnp/Desktop/SmallFTPclient/app/src/main/res/layout/activity_servers.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/mnp/Desktop/SmallFTPclient/app/src/main/res/layout/app_bar_main.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/mnp/Desktop/SmallFTPclient/app/src/main/res/layout/content_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/mnp/Desktop/SmallFTPclient/app/src/main/res/layout/fragment_ftp_storage.xml" value="0.2" />
+        <entry key="..\:/Users/mnp/Desktop/SmallFTPclient/app/src/main/res/layout/fragment_local_storage.xml" value="0.25" />
+        <entry key="..\:/Users/mnp/Desktop/SmallFTPclient/app/src/main/res/menu/fragment_menu.xml" value="0.36102564102564105" />
+        <entry key="..\:/Users/mnp/Desktop/SmallFTPclient/app/src/main/res/menu/main.xml" value="0.36102564102564105" />
+        <entry key="..\:/Users/mnp/Desktop/SmallFTPclient/app/src/main/res/menu/main_menu.xml" value="0.36102564102564105" />
+        <entry key="..\:/Users/terminator/AndroidStudioProjects/Project/SmallFTPclient/app/src/main/res/drawable/ic_button_add.xml" value="0.1" />
+        <entry key="..\:/Users/terminator/AndroidStudioProjects/Project/SmallFTPclient/app/src/main/res/drawable/ic_button_check.xml" value="0.1" />
+        <entry key="..\:/Users/terminator/AndroidStudioProjects/Project/SmallFTPclient/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/terminator/AndroidStudioProjects/Project/SmallFTPclient/app/src/main/res/drawable/ic_menu_camera.xml" value="0.1" />
+        <entry key="..\:/Users/terminator/AndroidStudioProjects/Project/SmallFTPclient/app/src/main/res/drawable/ic_menu_search.xml" value="0.1" />
+        <entry key="..\:/Users/terminator/AndroidStudioProjects/Project/SmallFTPclient/app/src/main/res/layout/activity_add_server.xml" value="0.25" />
+        <entry key="..\:/Users/terminator/AndroidStudioProjects/Project/SmallFTPclient/app/src/main/res/layout/activity_servers.xml" value="0.1" />
+        <entry key="..\:/Users/terminator/AndroidStudioProjects/Project/SmallFTPclient/app/src/main/res/layout/app_bar_main.xml" value="0.22" />
+        <entry key="..\:/Users/terminator/AndroidStudioProjects/Project/SmallFTPclient/app/src/main/res/layout/content_main.xml" value="0.1" />
+        <entry key="..\:/Users/terminator/AndroidStudioProjects/Project/SmallFTPclient/app/src/main/res/layout/content_servers.xml" value="0.1947463768115942" />
+        <entry key="..\:/Users/terminator/AndroidStudioProjects/Project/SmallFTPclient/app/src/main/res/layout/dialog_local_storage.xml" value="0.18297101449275363" />
+        <entry key="..\:/Users/terminator/AndroidStudioProjects/Project/SmallFTPclient/app/src/main/res/layout/dialog_local_storage_2.xml" value="0.18297101449275363" />
+        <entry key="..\:/Users/terminator/AndroidStudioProjects/Project/SmallFTPclient/app/src/main/res/layout/fragment_ftp_storage.xml" value="0.1947463768115942" />
+        <entry key="..\:/Users/terminator/AndroidStudioProjects/Project/SmallFTPclient/app/src/main/res/layout/fragment_local_storage.xml" value="0.1947463768115942" />
+        <entry key="..\:/Users/terminator/AndroidStudioProjects/Project/SmallFTPclient/app/src/main/res/layout/main_activity.xml" value="0.18" />
+        <entry key="..\:/Users/terminator/AndroidStudioProjects/Project/SmallFTPclient/app/src/main/res/layout/nav_header_main.xml" value="0.1947463768115942" />
+        <entry key="..\:/Users/terminator/AndroidStudioProjects/Project/SmallFTPclient/app/src/main/res/layout/recycler_file_item.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/terminator/AndroidStudioProjects/Project/SmallFTPclient/app/src/main/res/layout/recycler_server_item.xml" value="0.1" />
+        <entry key="..\:/Users/terminator/AndroidStudioProjects/Project/SmallFTPclient/app/src/main/res/menu/drawer_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/terminator/AndroidStudioProjects/Project/SmallFTPclient/app/src/main/res/menu/main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/terminator/AndroidStudioProjects/Project/SmallFTPclient/app/src/main/res/menu/main_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/terminator/AndroidStudioProjects/Project/SmallFTPclient/app/src/main/res/menu/main_menu_extended.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/terminator/AndroidStudioProjects/Project/SmallFTPclient_async/app/src/main/res/layout/activity_edit_server.xml" value="0.19519927536231885" />
+        <entry key="..\:/Users/terminator/AndroidStudioProjects/Project/SmallFTPclient_async/app/src/main/res/layout/activity_servers.xml" value="0.19519927536231885" />
+        <entry key="..\:/Users/terminator/AndroidStudioProjects/Project/SmallFTPclient_async/app/src/main/res/layout/app_bar_main.xml" value="0.19519927536231885" />
+        <entry key="..\:/Users/terminator/AndroidStudioProjects/Project/SmallFTPclient_async/app/src/main/res/layout/content_edit_server.xml" value="0.23722627737226276" />
+        <entry key="..\:/Users/terminator/AndroidStudioProjects/Project/SmallFTPclient_async/app/src/main/res/layout/content_main.xml" value="0.19519927536231885" />
+        <entry key="..\:/Users/terminator/AndroidStudioProjects/Project/SmallFTPclient_async/app/src/main/res/layout/content_servers.xml" value="0.19519927536231885" />
+        <entry key="..\:/Users/terminator/AndroidStudioProjects/Project/SmallFTPclient_async/app/src/main/res/layout/fragment_ftp_storage.xml" value="0.19519927536231885" />
+        <entry key="..\:/Users/terminator/AndroidStudioProjects/Project/SmallFTPclient_async/app/src/main/res/layout/nav_header_main.xml" value="0.19519927536231885" />
+        <entry key="..\:/Users/terminator/Desktop/Project/SmallFTPclient_async_test/app/src/main/res/layout/activity_edit_server.xml" value="0.1539855072463768" />
+        <entry key="..\:/Users/terminator/Desktop/Project/SmallFTPclient_async_test/app/src/main/res/layout/content_edit_server.xml" value="0.1539855072463768" />
+        <entry key="..\:/Users/terminator/Desktop/SmallFTPclient/app/src/main/res/drawable/background_splash.xml" value="0.1" />
+        <entry key="..\:/Users/terminator/Desktop/SmallFTPclient/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/terminator/Desktop/SmallFTPclient/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/terminator/Desktop/SmallFTPclient/app/src/main/res/drawable/screen_splash.xml" value="0.1" />
+        <entry key="..\:/Users/terminator/Desktop/SmallFTPclient/app/src/main/res/drawable/side_nav_bar.xml" value="0.1" />
+        <entry key="..\:/Users/terminator/Desktop/SmallFTPclient/app/src/main/res/layout/activity_splash.xml" value="0.182518115942029" />
+        <entry key="..\:/Users/terminator/Desktop/SmallFTPclient/app/src/main/res/layout/nav_header_main.xml" value="0.182518115942029" />
+        <entry key="..\:/Users/terminator/Desktop/SmallFTPclient/app/src/main/res/menu/fragment_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/terminator/Desktop/SmallFTPclient/app/src/main/res/menu/main_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/terminator/Desktop/SmallFTPclient/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/terminator/Desktop/SmallFTPclient/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+        <entry key="..\:/Users/terminator/Desktop/new/7/app/src/main/res/layout/fragment_ftp_storage.xml" value="0.20427305888483585" />
+        <entry key="..\:/Users/terminator/Desktop/new/7/app/src/main/res/layout/fragment_local_storage.xml" value="0.19519927536231885" />
+        <entry key="..\:/Users/terminator/Desktop/new/7/app/src/main/res/layout/recycler_file_item.xml" value="0.19519927536231885" />
+        <entry key="..\:/Users/terminator/Desktop/new/7/app/src/main/res/layout/recycler_server_item.xml" value="0.19519927536231885" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

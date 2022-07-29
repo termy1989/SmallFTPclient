@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="locals_with_sd">
+        <item>Home</item>
+        <item>Pictures</item>
+        <item>Download</item>
+        <item>Movies</item>
+        <item>Music</item>
+        <item>SD</item>
+    </string-array>
+    <string-array name="locals_without_sd">
+        <item>Home</item>
+        <item>Pictures</item>
+        <item>Download</item>
+        <item>Movies</item>
+        <item>Music</item>
+    </string-array>
+</resources>

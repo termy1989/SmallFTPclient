@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_search"
+        android:icon="@drawable/ic_menu_search"
+        android:orderInCategory="107"
+        app:showAsAction="ifRoom"
+        android:title="@string/search"
+        app:actionViewClass="android.widget.SearchView" />
+
+    <item
+        android:id="@+id/action_select_all"
+        android:orderInCategory="100"
+        android:title="@string/select_all"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_clear_all"
+        android:orderInCategory="101"
+        android:title="@string/clear_all"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_new_folder"
+        android:orderInCategory="102"
+        android:title="@string/new_folder"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_rename"
+        android:orderInCategory="103"
+        android:title="@string/rename"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_delete"
+        android:orderInCategory="104"
+        android:title="@string/delete"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_move"
+        android:orderInCategory="105"
+        android:title="@string/move"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_copy"
+        android:orderInCategory="106"
+        android:title="@string/copy"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_submenu"
+        android:icon="@drawable/ic_menu_settings"
+        android:orderInCategory="108"
+        app:showAsAction="ifRoom"
+        tools:ignore="MenuTitle">
+        <menu>
+            <item
+                android:id="@+id/action_servers"
+                android:title="@string/servers"
+                android:orderInCategory="109"
+                app:showAsAction="never" />
+            <item
+                android:id="@+id/action_settings"
+                android:title="@string/settings"
+                android:orderInCategory="110"
+                app:showAsAction="never" />
+        </menu>
+    </item>
+
+
+</menu>
