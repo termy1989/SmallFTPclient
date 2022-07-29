@@ -73,13 +73,13 @@ public class ServersPresenter {
         // поиск сервера по указанному имени
         FtpServer findServer = RealmProvider.provideServiceRealm().findFtpServer(server.getName());
 
-        //
+        // имя сервера изменилось
         if (findServer == null) connect(server);
 
-        //
+        // имя сервера не изменилось
         else if (findServer.getName().equals(serverName)) connect(server);
 
-        //
+        // имя сервера изменилось, но сервер с указанным именем уже существует
         else mView.showMessage("Server with specified name is already exists!", true);
     }
 

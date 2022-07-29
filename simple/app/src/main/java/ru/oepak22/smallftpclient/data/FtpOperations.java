@@ -24,7 +24,7 @@ public class FtpOperations implements FtpService {
     public Observable<String> connect(@NonNull FTPClient client, FtpServer server,
                                                                     String reconnect_path) {
 
-        client.setConnectTimeout(7000);
+        //client.setConnectTimeout(7000);
 
         return Observable.fromCallable(() -> {
 
